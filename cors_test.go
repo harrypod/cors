@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-gonic/gin"
-	"github.com/stretchr/testify/assert"
+	"github.com/harrypod/gin"
+	"github.com/harrypod/testify/assert"
 )
 
 func init() {

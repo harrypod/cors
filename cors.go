@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/harrypod/gin"
 )
 
 // Config represents all available options for the middleware.
